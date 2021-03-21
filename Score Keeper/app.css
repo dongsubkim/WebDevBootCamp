@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+}
+
+#button1 {
+    background-color: green;
+}
+
+#button2 {
+    background-color: blue;
+}
+
+#reset {
+    background-color: red;
+}
